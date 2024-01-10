@@ -1,1 +1,1 @@
-# New Ventur Finance Business Plan: Capstone Design Project - Design Report
+# New Venture Finance Business Plan: Capstone Design Project - Design Report
