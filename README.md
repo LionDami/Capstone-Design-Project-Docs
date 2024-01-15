@@ -4,54 +4,58 @@
 What is the problem/product/service of your project 2%
 The project I’m thrilled to introduce that I have chosen for my capstone project, will be a Saltwater-Powered Lantern with an Integrated Timepiece and USB Charger.
 #### Problem Statements
-•	Limited Access to Reliable Lighting
-In remote and impoverished areas and during power outages, many lack access to reliable lighting sources, hindering safety.
-•	Environmental Impact of Batteries
-Traditional batteries often contain hazardous materials and contribute to pollution, posing a significant environmental threat. Reducing carbon footprint.
-•	Charging Options 
-The growing need of tech devices for reason mostly communication and emergency purposes, has created a demand for versatile charging solution. 
+- <ins>**Limited Access to Reliable Lighting**</ins>
+<br>In remote and impoverished areas and during power outages, many lack access to reliable lighting sources, hindering safety.<br>
+- <ins>**Environmental Impact of Batteries**</ins>
+<br>Traditional batteries often contain hazardous materials and contribute to pollution, posing a significant environmental threat. Reducing carbon footprint.<br>
+- <ins>**Charging Options**</ins> 
+<br>The growing need of tech devices for reason mostly communication and emergency purposes, has created a demand for versatile charging solution.<br>
+
 Overall these problem statements are in need of a solution, this is what my saltwater-powered lantern offers sustainable illumination, charging options and a time-telling function addresses off-grid lighting needs while reducing environmental impact.
+
+
 #### Service Statements
 The service areas that drove and encouraged me on the journey to my product inception was:
-•	Sustainability
-The appeal to sustainability for a multitude of reasons, for environmental concerns such as pollution, carbon footprint, climate change and limited resources. The world is moving in this direction, societies are encouraged and incentivizing sustainable practices. Also Energy-efficiency resulting in cost savings for consumers and businesses. These benefits in a whole are highly attractive to society needs in both consumers and investors .   
-•	Multi-Utility
-The appeal to multi-utility products was obvious I feel, many benefits in convenience and efficiency because it offers multiple functions in one package. Saving you time and money with it versatility, designed to adapt to specific needs, more of time in it market niche gaining the competitive edge because of its uniqueness. Overall multifunctionality is attractive to both investors and consumer because of its range of viability when executed correctly.
-These service areas is what I envision my product will embody.
-
+- <ins>**Sustainability**</ins>
+<br>The appeal to sustainability for a multitude of reasons, for environmental concerns such as pollution, carbon footprint, climate change and limited resources. The world is moving in this direction, societies are encouraged and incentivizing sustainable practices. Also Energy-efficiency resulting in cost savings for consumers and businesses. These benefits in a whole are highly attractive to society needs in both consumers and investors.<br>   
+- <ins>**Multi-Utility**</ins>
+<br>The appeal to multi-utility products was obvious I feel, many benefits in convenience and efficiency because it offers multiple functions in one package. Saving you time and money with it versatility, designed to adapt to specific needs, more of time in it market niche gaining the competitive edge because of its uniqueness. Overall multifunctionality is attractive to both investors and consumer because of its range of viability when executed correctly.
+These service areas is what I envision my product will embody.<br>
 
 
 ### Research
-Research: what will you research, how will you research it, What your research findings are 20%
 #### What Will You Research?
 In response to the escalating demand for sustainable energy solutions, my capstone project will be investigating  the feasibility of the Saltwater-Powered Lantern integrated with a timepiece and USB charger. The aim for this research is to gain valuable Insight for the refining and redefining of this comprehensive study. The key areas of investigation include:
-•	Saltwater Power Generation - Efficiency and viability of harnessing energy
-•	Market Dynamics – Demand for sustainable power solutions
-•	User Experiences – Expectations and feedback
-•	Environmental Implications – Environmental impact
-•	Budget & Cost Analysis – Costs associated
+
+-	**Saltwater Power Generation -** Efficiency and viability of harnessing energy
+-	**Market Dynamics –** Demand for sustainable power solutions
+-	**User Experiences –** Expectations and feedback
+-	**Environmental Implications –** Environmental impact
+-	**Budget & Cost Analysis –** Costs associated
 
 #### How Will You Research?
 In researching the key takeaways that guided me in researching product innovation ideas effectively would be:
-•	Selecting an idea that allows you to demonstrate what you have learned – the topic must be relevant to the course descriptors and of a difficulty level that allow me to use, knowledge I’ve throughout my  course years to solve inception of project to execution.
-•	The idea must be important and unique –  I needed to find a real-world problem that I would be able to solve that will add value within the area of design. I would not recommend to select something that already has a solution unless you are confident that you can find a better answer.
-•	It must be able to hold your attention – With this project lasting 2 semesters it was very important that I selected an idea I would be zealous toward because it is difficult to work on something you have no interest in. 
-•	It must be something you can actually finish – I needed to take in mind the resources, budget and time that are available to me.                                                                            [1]
+- **Selecting an idea that allows you to demonstrate what you have learned –** the topic must be relevant to the course descriptors and of a difficulty level that allow me to use, knowledge I’ve throughout my  course years to solve inception of project to execution.
+- **The idea must be important and unique –**  I needed to find a real-world problem that I would be able to solve that will add value within the area of design. I would not recommend to select something that already has a solution unless you are confident that you can find a better answer.
+- **It must be able to hold your attention –** With this project lasting 2 semesters it was very important that I selected an idea I would be zealous toward because it is difficult to work on something you have no interest in. 
+- **It must be something you can actually finish –** I needed to take in mind the resources, budget and time that are available to me.                                               [1]
+  
 Different ways I will research the Saltwater Lantern to refine my idea will be:
-•	Proof of concepts
-•	Market Analysis
-•	Interview Experts
-•	Literature Review
-•	Case studies
-•	Regulatory and Environmental considerations
-•	Budget & cost analysis
-•	User Feedback 
+-	Proof of concepts
+-	Market Analysis
+-	Interview Experts
+-	Literature Review
+-	Case studies
+-	Regulatory and Environmental considerations
+-	Budget & cost analysis
+-	User Feedback 
 
 #### What Your Research Findings?
-In the research of my key areas of the Saltwater-Powered Lantern, I found:
-Saltwater Power Generation 
-In the process of ionisation, it is possible to generate electricity from seawater. This is because the ocean's salty water acts as an electrical conductor, making it a source of renewable energy. Sodium ions and chloride ions are made up of salt molecules. An ion is the atom that's had an electrical charge because it has either gained or lost its electron, and therefore carries both positive and negative charges.
-When you put salt in water, the water molecules pull the sodium and chlorine ions apart so they are floating freely, increasing the conductivity. It's these ions that bring electricity through the water with a current. Salt water, combined with sodium chloride, can also contribute to the production of electricity. [2]
+<br>In the research of my key areas of the Saltwater-Powered Lantern, I found:<br>
+<ins>**Saltwater Power Generation**</ins>
+<br>In the process of ionisation, it is possible to generate electricity from seawater. This is because the ocean's salty water acts as an electrical conductor, making it a source of renewable energy. Sodium ions and chloride ions are made up of salt molecules. An ion is the atom that's had an electrical charge because it has either gained or lost its electron, and therefore carries both positive and negative charges.<br>
+<br>When you put salt in water, the water molecules pull the sodium and chlorine ions apart so they are floating freely, increasing the conductivity. It's these ions that bring electricity through the water with a current. Salt water, combined with sodium chloride, can also contribute to the production of electricity.<br> [2]
+
 I also found proof of concept experiments conducting experiments generating electricity from saltwater. 
 
 #### Market Dynamics 
@@ -62,6 +66,7 @@ Figure 1 - Evolution of global electricity demand by region (left) and regional 
 
 #### User Experiences 
 Operating products is a way for users to achieve behavioural goals. Studying user behaviour can help designers identify the potential needs of users to explore more design possibilities. Through questionnaire surveys, target users are found to evaluate the functional attributes of the product, and the survey data are collected to determine the specific attributes of each function. According the examination of consumer preferences for solar portable lights report. survey indicates storekeepers were perceived to be the main demographic that would use the solar portable light All Night, followed closely by students and farmers. This product is similar to the Saltwater-powered lantern, so this shows me my potential user. [4]
+
 #### Environmental Implications 
 For the main source of the Saltwater-powered lantern  illumination, will be LED lights. LEDs or light-emitting diodes are much more energy efficient than traditional lighting sources and require less than 25% of the energy consumed by incandescent bulbs. [5]
 Due to these reason LED lights have increased their popularity in recent years due to their energy efficiency and long lifespan. Comparing the traditional incandescent bulbs with the LED lights, we can appreciate that LED lights use a lot less energy, in concert 80% less energy, so it requires less electricity to power on compared to the traditional ones. This reduction also means a reduction in greenhouse gas emissions and less carbon dioxide released. Another benefit is that LED lights need less energy to produce, reducing the environmental impact they are also highly recyclable . Overall led lights are a step in the right direction for the environmental impact. [6]
@@ -69,20 +74,19 @@ Due to these reason LED lights have increased their popularity in recent years d
 Figure 2 - USE OF ENERGY
 [6]
 
-
 #### Budget & Cost Analysis 
-Lantern
-•	LED lights – 12.99
-•	Conductive Wires (anode & cathode) – €12.99
-•	Aluminium plates - €12
-•	Container - Mason Jar or Wood or Plastic or Glass or Metal for Lantern - €25
-•	Handle – Wire, Rope - €10
-•	Boost converter - €12.99
-Timepiece
-•	Digital Clock – €10.99
-•	Conductive Wires (anode & cathode) €12.99
-USB Charger
-•	USB port – €9.99
+##### Lantern
+- LED lights – 12.99
+- Conductive Wires (anode & cathode) – €12.99
+- Aluminium plates - €12
+- Container - Mason Jar or Wood or Plastic or Glass or Metal for Lantern - €25
+- Handle – Wire, Rope - €10
+- Boost converter - €12.99
+##### Timepiece
+**-	Digital Clock – €10.99**
+**-	Conductive Wires (anode & cathode) €12.99**
+##### USB Charger
+**- USB port – €9.99**
 In total my estimated budget so far is €119.94 [7]
 
 
