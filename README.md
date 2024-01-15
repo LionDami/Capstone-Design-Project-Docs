@@ -56,7 +56,8 @@ I also found proof of concept experiments conducting experiments generating elec
 
 #### Market Dynamics 
 The electricity market report 2023 claims that the global energy crisis, worsened by international conflicts, has led to a sharp increase in the cost of producing electricity as well as a sharp price increase for necessities. Saltwater-powered lanterns are one of the creative solutions that are gaining traction as viable alternatives to traditional electricity sources as the demand for electricity continues to rise, especially in Asia. The lanterns provide an economical and environmentally friendly solution that tackles the financial implications of rising energy costs as well as environmental concerns. Adopting alternative energy solutions becomes essential for meeting the rising energy needs and reducing the strain on traditional power sources, as the demand for electricity is predicted to soar in emerging markets like China, India, and Southeast Asia. [3]
- 
+ ![image](https://github.com/LionDami/Capstone-Design-Project--Doc/assets/145494245/bb8aa3f6-ac4a-4a1a-a41d-47630c088a08)
+
 Figure 1 - Evolution of global electricity demand by region (left) and regional shares (right), 1990-2025  [3]
 
 #### User Experiences 
@@ -64,7 +65,7 @@ Operating products is a way for users to achieve behavioural goals. Studying use
 #### Environmental Implications 
 For the main source of the Saltwater-powered lantern  illumination, will be LED lights. LEDs or light-emitting diodes are much more energy efficient than traditional lighting sources and require less than 25% of the energy consumed by incandescent bulbs. [5]
 Due to these reason LED lights have increased their popularity in recent years due to their energy efficiency and long lifespan. Comparing the traditional incandescent bulbs with the LED lights, we can appreciate that LED lights use a lot less energy, in concert 80% less energy, so it requires less electricity to power on compared to the traditional ones. This reduction also means a reduction in greenhouse gas emissions and less carbon dioxide released. Another benefit is that LED lights need less energy to produce, reducing the environmental impact they are also highly recyclable . Overall led lights are a step in the right direction for the environmental impact. [6]
- 
+ ![image](https://github.com/LionDami/Capstone-Design-Project--Doc/assets/145494245/6fdfb52e-68fe-4e30-9548-97cf0416e0ac)
 Figure 2 - USE OF ENERGY
 [6]
 
