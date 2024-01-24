@@ -51,7 +51,8 @@ Different ways I will research the Saltwater Lantern to refine my idea will be:
 -	User Feedback 
 
 #### What Your Research Findings?
-<br>In the research of my key areas of the Saltwater-Powered Lantern, I found:<br>
+In the research of my key areas of the Saltwater-Powered Lantern, I found:
+
 <ins>**Saltwater Power Generation**</ins>
 <br>In the process of ionisation, it is possible to generate electricity from seawater. This is because the ocean's salty water acts as an electrical conductor, making it a source of renewable energy. Sodium ions and chloride ions are made up of salt molecules. An ion is the atom that's had an electrical charge because it has either gained or lost its electron, and therefore carries both positive and negative charges.<br>
 <br>When you put salt in water, the water molecules pull the sodium and chlorine ions apart so they are floating freely, increasing the conductivity. It's these ions that bring electricity through the water with a current. Salt water, combined with sodium chloride, can also contribute to the production of electricity.<br> [2]
@@ -83,10 +84,11 @@ Figure 2 - USE OF ENERGY
 - Handle – Wire, Rope - €10
 - Boost converter - €12.99
 ##### Timepiece
-**-	Digital Clock – €10.99**
-**-	Conductive Wires (anode & cathode) €12.99**
+-	Digital Clock – €10.99
+-	Conductive Wires (anode & cathode) €12.99
 ##### USB Charger
-**- USB port – €9.99**
+- USB port – €9.99
+  
 In total my estimated budget so far is €119.94 [7]
 
 
@@ -94,31 +96,32 @@ In total my estimated budget so far is €119.94 [7]
 Persona, Surveys, user insight, user/persona, user needs, user engagement, surveys, interview required to give you the information to be able to implement user centric design  20%
 #### Persona
 A user persona represents a subgroup of your target audience and serves as guidance for making  product and marketing decisions. Personas humanize the user research and real data, this makes it more of a realistic representation of what your user wants [8]
-**So far the potential user personas could be:** 
-•	Hiker, 
-•	Fisher, 
-•	Off-grid user, 
-•	Campers,
-•	 Outdoor enthusiasts
-•	 Impoverished nations 
+<br>**So far the potential user personas could be:**</br>
+- Hiker
+- Fisher
+- Off-grid user
+- Campers
+- Outdoor enthusiasts
+- Impoverished nations 
 
 #### Surveys
 The method I will be using for user research will be surveys. Developing questions, you can collect feedback and insights from a large number of participants, which will help me to make on my decision making because the data backs it up. Surveys are an effective method for conducting efficient, cost-effective, and scalable research. [9]
 Formatted below would be the survey questions for the distinct personas 
-**Hikers, Campers, and Outdoor Enthusiasts:**
+
+<ins><br>**Hikers, Campers, and Outdoor Enthusiasts:**</br></ins>
 1.	Are outdoor activities(camping, hiking), a part of your lifestyle?
 2.	Currently what are your options for lights sources?
 3.	Would a crucial role for your lighting source be portability during night activities, if so why? 
 4.	Would a USB port for charging your electronic devices integrated in a portable lantern be beneficial  
 5.	How interested would you be in a Saltwater-Powered Lantern with an Integrated Timepiece and USB Charger, rate on a scale of 1 to 5?
 
-**Fishers:**
+<ins><br>**Fishers:**</br></ins>
 1.	During fishing trips, how important is it to have a reliable light source, especially during nighttime hours
 2.	How often do you encounter situations where you need to charge your electronic devices while fishing in remote locations?
 3.	Would you  consider using a saltwater-powered lantern that also doubles as a USB charger for your devices during fishing expeditions?
 4.	What features would make a lantern particularly useful for your fishing activities?
 
-**Off-Grid Users:**
+<ins><br>**Off-Grid Users:**</br></ins>
 1.	In areas with limited access to electricity, how do you currently fulfil your lighting needs?
 2.	How often do you face challenges in charging your electronic devices in off-grid locations or areas with unreliable electricity supply?
 3.	Would a saltwater-powered lantern with integrated USB charging capability be a valuable solution for your lighting and charging needs?
@@ -127,8 +130,8 @@ Formatted below would be the survey questions for the distinct personas
 
 The feedback I received from my users in the survey are in the below diagrams and appendix. From these insights received I’ll now be able to make more accurate, actionable better decisions based off the data collected.
 
- 
-Figure 3 - Survey Insights Recieved
+ ![image](https://github.com/LionDami/Capstone-Design-Project-Docs/assets/145494245/044f9a26-0897-4e3a-87bb-37c41b8d9506)
+<br>Figure 3 - Survey Insights Recieved</br>
 ### Environment Research 
 Environment Research: Technology, regulations and business implications 20%
 #### Technology
@@ -150,22 +153,22 @@ This setup, often referred to as a simple galvanic cell or battery, demonstrates
 ### Regulatory Compliance 
 According to the Electronic Communications report. The legislations I will be under is by the commission for communications regulation(ComReg). ComReg is a statutory body responsible for the regulation of the electronics sector. They are responsible for protecting consumers and to encourage innovation in the sector. So their role involves dealing with law, economics and technology. [13]
 “Under the Communications Regulation Act 2002, Comreg is obliged to publish provision of electronic” surveillance and enforcement responsibilities in relation to regulation are. [14]
-•	Ensuring that operators fulfil their obligations
-•	Encouraging competition aids in the internal market's development
-•	advancing user interests inside the European Community
-•	ensuring the effective use and management of the national numbering scheme's numbers and radio frequency spectrum
-•	encouraging the growth of the postal industry and, specifically, the provision of a universal service
-•	defending the rights of final consumers of high-priced services [14]
+-	Ensuring that operators fulfil their obligations
+-	Encouraging competition aids in the internal market's development
+- Advancing user interests inside the European Community
+- Ensuring the effective use and management of the national numbering scheme's numbers and radio frequency spectrum
+-	Encouraging the growth of the postal industry and, specifically, the provision of a universal service
+-	Defending the rights of final consumers of high-priced services [14]
 
 ### Business implications
 #### Positive Business Implications:
-•	**Market Appeal:** Having an innovative and sustainable product can help you stand out from competitors and increase market appeal. Eco-friendly products are becoming more encouraged and trendy by societies , this will give an competitive edge.
-•	**Cost-Effectiveness:** While the lantern's initial cost may not yet be set, highlighting its long lifespan and rechargeable nature will draw in consumers searching for reasonably priced, long-lasting solutions. This will contribute to higher perceived value over time. 
-•	**Government Incentives:** In regions where governments offer incentives for sustainable and renewable energy products, Saltwater-powered lantern will perform well as a result of more promotion and financial benefits.
+-	**Market Appeal:** Having an innovative and sustainable product can help you stand out from competitors and increase market appeal. Eco-friendly products are becoming more encouraged and trendy by societies , this will give an competitive edge.
+-	**Cost-Effectiveness:** While the lantern's initial cost may not yet be set, highlighting its long lifespan and rechargeable nature will draw in consumers searching for reasonably priced, long-lasting solutions. This will contribute to higher perceived value over time.
+-	**Government Incentives:** In regions where governments offer incentives for sustainable and renewable energy products, Saltwater-powered lantern will perform well as a result of more promotion and financial benefits.
 
 #### Negative Business Implications:
-•	**Initial Cost:** The initial costs of developing environmentally friendly technology may be higher. A way to address this negative and upscale the value would be quality.
-•	Competitive Landscape: Examining the market to make sure saltwater-power lantern stands out from the competition. In any case there are any identical products on the market, in doing so will develop special qualities in lantern in order to stand out.
+- **Initial Cost:** The initial costs of developing environmentally friendly technology may be higher. A way to address this negative and upscale the value would be quality.
+- **Competitive Landscape:** Examining the market to make sure saltwater-power lantern stands out from the competition. In any case there are any identical products on the market, in doing so will develop special qualities in lantern in order to stand out.
 Overall, addressing these considerations will reduce unforeseen issues ahead road maximising the upside execution. 
 
 ### Ideation Generation
